@@ -45,7 +45,7 @@ export const useSendEmails = routeAction$(
         new GmailSearch(),
         new GmailSendMessage(),
       ];
-
+console.log("test")
       const gmailAgent = await initializeAgentExecutorWithOptions(tools, model, {
         agentType: "structured-chat-zero-shot-react-description",
         verbose: true,

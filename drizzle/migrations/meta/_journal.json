@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1735144384218,
+      "tag": "0000_lively_gabe_jones",
+      "breakpoints": true
+    }
+  ]
+}
